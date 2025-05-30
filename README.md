@@ -4,7 +4,7 @@
 <hr/>
 <body background-color="black">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=3300&lines=Hello!+Welcome+to+my+GitHub!+👋;+I'm+Hiroshi!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=3300&lines=Hello!+Welcome+to+my+GitHub!+👋;+I'm+Olaf!;" /></h1>
 </p>
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp0dWZkMWVzaTVqMzBuOXgyeHdvZHIzM2g1ZWVpd28xMDRzcms5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGJEEqTOVq7IW4g/giphy.gif" alt="Funny GIF" />
